@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="14663292704966997212" data-share-method="host" data-aspect-ratio="0.991667" data-width="100%"><a href="https://tenor.com/view/jerma-gif-14663292704966997212">Jerma GIF</a>from <a href="https://tenor.com/search/jerma-gifs">Jerma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Cool Animation](https://tenor.com/ru/view/jerma-gif-14663292704966997212)
 
 <!--
 **Mambavoz/Mambavoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
