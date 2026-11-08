@@ -1,4 +1,8 @@
-![Cool Animation](https://tenor.com/ru/view/jerma-gif-14663292704966997212)
+<div align="center">
+
+<img src="jerma.gif" width="420" alt="Animation">
+
+</div>
 
 <!--
 **Mambavoz/Mambavoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
